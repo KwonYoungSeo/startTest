@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int man(void){
+  prinf("youngseo\n");
+
+  return 0;
+}
